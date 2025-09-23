@@ -1,0 +1,7 @@
+var1=input("Introduce un valor numérico o un valor numerico decimal")
+var2=input("Introduce una letra")
+var3=input("Introduce un valor numerico decimal")
+#print("var1=1 var2=a var3=6,8")
+print(f"El valor introducido es {var1}")
+print(f"El valor introducido es {var2}")
+print(f"El valor introducido es {var3}")
