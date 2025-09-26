@@ -1,0 +1,7 @@
+Primera = input("Introduce la primera palabra: ")
+Segunda = input("Introduce la segunda palabra: ")
+Tercera = input("Introduce la tercera palabra: ")
+Quarta = input("Introduce la quarta palabra: ")
+Quinta = input("Introduce la quinta palabra: ")
+print(f"{Primera}{Segunda}{Tercera}{Quarta}{Quinta}")
+print(f"{Primera},{Segunda},{Tercera},{Quarta},{Quinta}")
